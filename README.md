@@ -1,6 +1,6 @@
 # 💫 About Me 🚀👨‍💻:
 No, i am not a Capybara
-<a href="https://www.flaticon.com/free-icons/capybara" title="capybara icons">Capybara icons created by Freepik - Flaticon</a>
+![capybara](https://github.com/RamaOrmachea/RamaOrmachea/assets/24641993/c66aee3d-391f-44e6-845e-a56d0db20d67)
 
 Enthusiastic and tech-driven, I'm a budding professional developer fueled by curiosity and a love for learning. Currently improving my skills as a developer, I'm eagerly awaiting the chance to dive into the tech industry headfirst. My journey is defined by continuous exploration and a thirst for knowledge in various domains.<br><br>With a solid foundation in Java, SpringBoot, and SQL, I bring a proactive and autonomous approach to problem-solving. 🛠️ The thrill of tackling challenges head-on drives me, and my adaptability ensures I can navigate the always evolving tech world.<br><br>Fluent in both Spanish and English, I bridge gaps with ease, holding a C1 Advanced certificate in English proficiency. 🌎🗣️<br><br>As I set forth on this exciting tech adventure, I'm ready to infuse my passion, curiosity, and skills into innovative projects. Let's push boundaries together and shape the future! 🚀🔥
 
