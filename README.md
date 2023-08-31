@@ -2,7 +2,7 @@
 
 No, i am not a Carpincho  ![capybara (2)](https://github.com/RamaOrmachea/RamaOrmachea/assets/24641993/9592802b-3e50-4a87-bd99-ea5282c1e9b1)...
 
-Enthusiastic and tech-driven, I'm a budding professional developer fueled by curiosity and a love for learning. Currently improving my skills as a developer, I'm eagerly awaiting the chance to dive into the tech industry headfirst. My journey is defined by continuous exploration and a thirst for knowledge in various domains.<br><br>Fluent in both Spanish and English, I bridge gaps with ease, holding a C1 Advanced certificate in English proficiency. 🌎🗣️<br><br>As I set forth on this exciting tech adventure, I'm ready to infuse my passion, curiosity, and skills into innovative projects. Let's push boundaries together and shape the future! 🚀🔥
+Enthusiastic and tech-driven, I'm a budding professional developer fueled by curiosity and a love for learning. Currently improving my skills as a developer, I'm eagerly awaiting the chance to dive into the tech industry headfirst. My journey is defined by continuous exploration and a thirst for knowledge in various domains.<br>As I set forth on this exciting tech adventure, I'm ready to infuse my passion, curiosity, and skills into innovative projects 🚀🔥. 
 
 
 ## 🌐 Socials:
