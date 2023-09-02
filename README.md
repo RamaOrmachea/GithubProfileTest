@@ -1,9 +1,10 @@
 <p align="center">
-    <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" width="800">
+    <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" width="700">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramiro Ormachea</h1>
 <h3 align="center">A dedicated BackEnd developer from Argentina</h3>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaormachea&label=Profile%20views&color=0e75b6&style=flat" alt="ramaormachea" /> </p>
 
