@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Ramiro_Hero@hotmail.com**
 
-- ⚡ Fun fact **I love capybaras**
+- ⚡ **I love capybaras**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
