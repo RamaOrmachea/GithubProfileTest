@@ -2,17 +2,24 @@
     <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" width="700">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ramiro Ormachea</h1>
-<h3 align="center">A dedicated BackEnd developer from Argentina</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif">
+<h1 align="center">Hi 👋, I'm Ramiro Ormachea <br>
+    Backend Developer</h1>
+    
+   <p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&pause=1000&color=FFFFFF&background=567FFF00&center=true&width=435&lines=A+dedicated+student+from+Argentina;Always+learning+something+new;Passionate+about+technology;Curious+mind%2C+endless+possibilities" alt="Typing SVG" style="vertical-align: middle;">
+    </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaormachea&label=Profile%20views&color=0e75b6&style=flat" alt="ramaormachea" /> </p>
 
-- 🌱 I’m currently learning **All about backend and Infrastructure**
+- 🌱 I’m currently learning **All about Backend and Infrastructure**
 
 - 💬 Ask me about **Java, Spring, Sql**
 
-- 📫 How to reach me **Ramiro_Hero@hotmail.com**
+- 📫 How to reach me **Ramiro_hero@hotmail.com**
 
 - ⚡ **I love capybaras**
 
@@ -25,9 +32,6 @@
 
 <h4 align="left">Backend:</h4>
 <p align="left"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
@@ -59,7 +63,7 @@
   
 </p>
 
-<h4 align="left">Other Tools:</h4>
+<h4 align="left">Tools:</h4>
 <p align="left"> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -70,6 +74,14 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a> 
+
+   
 
 </p>
 
